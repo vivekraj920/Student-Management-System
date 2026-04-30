@@ -1,3 +1,0 @@
-admin,admin
-abdo,12345
-vivek12411101,vivekraj123
